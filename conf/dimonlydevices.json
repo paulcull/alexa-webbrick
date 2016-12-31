@@ -1,0 +1,18 @@
+{
+	"devices" : [
+		{
+			"brickIp":"192.168.1.243",
+			"deviceType":"dimmer",
+			"deviceName":"Breakfast Room Dimmer Manual",
+			"zoneName":"breakfastroom",
+			"zoneArea":"main",
+			"channel":3,
+			"readable":true,
+			"writeable":true,
+			"G":"243D03M",
+			"V":0,
+			"D":240,
+			"Interval":1200000
+		}
+	]
+}

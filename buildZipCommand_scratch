@@ -1,0 +1,1 @@
+rm alexa-webbrick.zip && zip -r alexa-webbrick.zip alexa-template.js conf node_modules/uuid-v4
