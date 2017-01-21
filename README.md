@@ -1,5 +1,7 @@
 Alexa WebBrick Module
 =====================
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/paulcull/alexa-webbrick.svg)](https://greenkeeper.io/)
 Author: Paul Cullender
 Version: 0.1
 Status: Stable
